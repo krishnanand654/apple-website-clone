@@ -1,0 +1,44 @@
+.head {
+  color: white;
+  font-size: 26px;
+  font-weight: 700;
+}
+
+.head-ctn {
+  background: black;
+  padding: 70px 220px 80px;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.section {
+  padding: 50px 0 50px 0px;
+  background: #f5f5f7;
+}
+.section h3 {
+  padding: 0 230px 30px;
+}
+
+.Icard-ctn {
+  display: flex;
+
+  overflow-x: scroll; /* Enable horizontal scrollbar */
+  white-space: nowrap;
+}
+
+::-webkit-scrollbar {
+  visibility: hidden;
+  width: 0px;
+}
+
+.sub-btn-nav {
+  display: flex;
+  align-items: center;
+}
+
+.sub-btn-nav p {
+  margin: 0 10px 0;
+  font-size: 12px;
+  color: white;
+}

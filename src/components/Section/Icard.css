@@ -1,0 +1,82 @@
+.card {
+  width: 400px;
+  border-radius: 20px !important;
+  position: relative;
+  margin: 0 10px 10px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  border: none !important;
+}
+
+.content {
+  position: absolute;
+  padding: 20px;
+  color: white;
+}
+
+.content .heading-card {
+  width: 200px !important;
+}
+
+.text {
+  font-size: 12px;
+  width: 200px !important;
+}
+
+.one {
+  border-radius: 20px;
+  width: auto;
+}
+
+.card-ctn {
+  margin: 20px 0 0;
+  display: flex;
+}
+
+.cn-2 {
+  color: black;
+}
+
+.compare-img {
+  width: auto;
+  height: 270px;
+}
+
+.card-two-ctn {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.price-card-ctn {
+  padding: 100px;
+  text-align: center;
+  margin: 0 170px 0;
+}
+
+.price-card-ctn h1 {
+  margin: 0 0 50px;
+}
+
+.card-two-flex {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.compare-color {
+  margin: 10px 0 20px;
+  width: 120px;
+  height: 15px;
+}
+
+.compare-head {
+  font-size: 24px;
+}
+
+.cart {
+  margin: 20px 0 0;
+}
+
+.card a {
+  text-decoration: none !important;
+}

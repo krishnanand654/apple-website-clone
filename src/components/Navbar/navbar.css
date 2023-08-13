@@ -1,0 +1,23 @@
+nav ul {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 10px;
+  list-style: none;
+  font-size: 12px;
+  font-weight: 500;
+  margin: 0 150px 0;
+}
+
+nav {
+  background: black;
+  color: #86868b;
+  position: fixed;
+  width: 100%;
+  z-index: 1000;
+}
+
+.logo {
+  width: auto;
+  height: 18px;
+}
